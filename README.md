@@ -6,3 +6,5 @@
 <p>
   <a href="https://twitter.com/Viraz04" target="blank"><img src="https://img.shields.io/twitter/follow/Viraz04?logo=twitter&style=for-the-badge" alt="viraz twitter" /></a>
 </p>
+
+![Viraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj124&show_icons=true&theme=radical&count_private=true)
