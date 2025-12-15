@@ -8,3 +8,5 @@
 </p>
 
 ![Viraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj124&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj124&layout=compact&langs_count=6&theme=gotham)
