@@ -5,7 +5,7 @@
 [![Viraz Malhotra Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Viraz04)
 [![Viraz Malhotra Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraz-malhotra-8a1639118/)
 
-Worked at [Fuel Labs](https://fuel.network/), [Instadapp](https://instadapp.io/), [Juicebox Dao](https://juicebox.money/) etc and wrote contracts that secured millions in TVL with no live exploits ever
+Worked at [Fuel Labs](https://fuel.network/), [Instadapp](https://instadapp.io/), [Juicebox DAO](https://juicebox.money/) etc and wrote contracts that secured millions in TVL with no live exploits ever
 
 Find my security researcher portfolio [here](https://github.com/viraj124/audits)
 
